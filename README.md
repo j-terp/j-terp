@@ -29,5 +29,5 @@ Computer Science Student at Aalborg University
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d)](https://github.com/j-terp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/j-terp)
