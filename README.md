@@ -1,4 +1,4 @@
-# Jonas Nagstrup Terp [<img title="LinkedIn" alt="icon" src="img/linkedin.svg" width="32x" align="center">](https://www.linkedin.com/in/j-terp/)
+# Jonas Nagstrup Terp [<img title="LinkedIn" alt="icon" src="img/linkedin.svg" width="32x" align="top">](https://www.linkedin.com/in/j-terp/)
 Computer Science Student at Aalborg University
 
 ## Currently learning
