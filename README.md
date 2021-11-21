@@ -1,1 +1,2 @@
-# readme
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=4&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
