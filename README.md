@@ -1,14 +1,11 @@
 # Jonas Nagstrup Terp [<img title="LinkedIn" alt="icon" src="img/linkedin.svg" width="32x" align="top">](https://www.linkedin.com/in/j-terp/)
 Computer Science Student at Aalborg University
 
-## Currently learning
+#### Currently learning
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j-terp&show_owner=true&repo=impr&theme=github_dark&border_color=30363d)](https://github.com/j-terp/impr)
 - **Imperative Programming** using **C89**.
 
-## Previous works
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elliot4711&show_owner=true&repo=robot_arm&theme=github_dark&border_color=30363d)](https://github.com/elliot4711/robot_arm)
+#### Previous works
 
 - **Robotic** project using an Arduino Mega, coded with **C++**, produced with electrical components and 3d-printed parts. Coded and produced with [@elliot4711](https://github.com/elliot4711).
 
@@ -31,3 +28,5 @@ Computer Science Student at Aalborg University
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d)](https://github.com/j-terp)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/j-terp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j-terp&show_owner=true&repo=impr&theme=github_dark&border_color=30363d)](https://github.com/j-terp/impr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elliot4711&show_owner=true&repo=robot_arm&theme=github_dark&border_color=30363d)](https://github.com/elliot4711/robot_arm)
