@@ -43,5 +43,5 @@
 
 <h2>Github Stats</h2>
 
-<a href="j-terp?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d"></a>
+<a href="https://github.com/j-terp?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d"></a>
 <a href="#skills"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d"></a>
