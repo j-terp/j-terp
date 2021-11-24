@@ -13,13 +13,11 @@ Computer Science Student at Aalborg University
 
 [//]: # (badges/list of skills)
 
-![](https://img.shields.io/badge/Code-C89-informational?style=flat&logo=C&color=00599c)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3670A0)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=e34f26)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=00599c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572b6)
-
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=e34f26)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3670A0)\
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572b6)\
 ![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&color=00979d)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=f05033)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=121011)
