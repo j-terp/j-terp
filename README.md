@@ -11,21 +11,21 @@
 <h2>Skills</h2>
 
 <div class="Code">
-  <a href="#"><img src="https://img.shields.io/badge/C89-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/C89-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
 
 <div class="Style">
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 </div>
 
 <div class="Tools">
-  <a href="#"><img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a style="cursor:default;" href="#"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <h2>About me</h2>
@@ -43,5 +43,5 @@
 
 <h2>Github Stats</h2>
 
-<a <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d"></a>
-<a <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d"></a>
+<a style="cursor:default;" href="#"><img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d"></a>
+<a style="cursor:default;" href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d"></a>
