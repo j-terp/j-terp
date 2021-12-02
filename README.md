@@ -38,10 +38,10 @@
   I coded and produced it together with <a href="https://github.com/elliot4711">@elliot4711</a>.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=j-terp&show_owner=true&repo=impr&theme=github_dark&border_color=30363d">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=elliot4711&show_owner=true&repo=robot_arm&theme=github_dark&border_color=30363d">
+<a href="https://github.com/j-terp/impr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-terp&show_owner=true&repo=impr&theme=github_dark&border_color=30363d"></a>
+<a href="https://github.com/elliot4711/robot_arm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elliot4711&show_owner=true&repo=robot_arm&theme=github_dark&border_color=30363d"></a>
 
 <h2>Github Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d">
+<a href="https://github.com/j-terp?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=j-terp&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d"></a>
+<a href="#skills"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-terp&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d"></a>
