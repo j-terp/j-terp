@@ -30,16 +30,13 @@
 
 <h2>About me</h2>
 <p>
-  Currently I'm learning Imperative Programming using <b>C89</b>, and using what I've learned in making our semester project.
+  Currently I'm learning <a href="https://github.com/j-terp/impr">Imperative Programming using <b>C89</b></a>, and using this knowledge to develop my semester project.
 </p>
 
 <p>
-  One of my previous projects is making a robotic arm using an Arduino Mega, coded with <b>C++</b> and produced with both electrical components and 3d-printed parts.<br>
+  One of my previous projects is <a href="https://github.com/elliot4711/robot_arm">making a robotic arm using an Arduino Mega</a>, coded with <b>C++</b> and produced with both electrical components and 3d-printed parts.<br>
   I coded and produced it together with <a href="https://github.com/elliot4711">@elliot4711</a>.
 </p>
-
-<a href="https://github.com/j-terp/impr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-terp&show_owner=true&repo=impr&theme=github_dark&border_color=30363d"></a>
-<a href="https://github.com/elliot4711/robot_arm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elliot4711&show_owner=true&repo=robot_arm&theme=github_dark&border_color=30363d"></a>
 
 <h2>Github Stats</h2>
 
