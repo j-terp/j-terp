@@ -31,11 +31,15 @@
 
 <h2>About me</h2>
 <p>
-  Currently I'm learning <a href="https://github.com/j-terp/impr">Imperative Programming using <b>C89</b></a>, and using this knowledge to develop my semester project.
+  Currently I'm learning Web Programming using <b>Javascript</b>, and using this knowledge to develop my semester project.
 </p>
 
 <p>
-  One of my previous projects is <a href="https://github.com/elliot4711/robot_arm">making a robotic arm using an Arduino Mega</a>, coded with <b>C++</b> and produced with both electrical components and 3d-printed parts.<br>
+  My latest project is an <a href="https://github.com/j-terp/p1">implementation of a pickup system</a>, using clustering and approximation algorithms to achieve the best routes with several collecting units, with the limitation of keeping the capacities from overflowing. This was programmed in C17.
+</p>
+
+<p>
+  One of my first projects is <a href="https://github.com/elliot4711/robot_arm">making a robotic arm using an Arduino Mega</a>, coded with <b>C++</b> and produced with both electrical components and 3d-printed parts.<br>
   I coded and produced it together with <a href="https://github.com/elliot4711">@elliot4711</a>.
 </p>
 
